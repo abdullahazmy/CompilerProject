@@ -1,0 +1,27 @@
+	1: reserved word: read
+	1: ID, name= n
+	2: ID, name= fact
+	2: :=
+	2: NUM, val= 1
+	3: ID, name= i
+	3: :=
+	3: NUM, val= 1
+	4: ID, name= while
+	4: ID, name= i
+	4: <=
+	4: ID, name= n
+	4: ID, name= do
+	5: ID, name= fact
+	5: :=
+	5: ID, name= fact
+	5: *
+	5: ID, name= i
+	6: ID, name= i
+	6: :=
+	6: ID, name= i
+	6: +
+	6: NUM, val= 1
+	7: reserved word: end
+	8: reserved word: write
+	8: ID, name= fact
+	8: EOF
